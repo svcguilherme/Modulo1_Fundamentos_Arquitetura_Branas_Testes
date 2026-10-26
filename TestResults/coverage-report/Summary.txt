@@ -1,0 +1,23 @@
+Summary
+  Generated on: 26/10/2026 - 20:47:49
+  Coverage date: 26/10/2026 - 20:47:48
+  Parser: Cobertura
+  Assemblies: 1
+  Classes: 1
+  Files: 1
+  Line coverage: 100%
+  Covered lines: 38
+  Uncovered lines: 0
+  Coverable lines: 38
+  Total lines: 66
+  Branch coverage: 100% (14 of 14)
+  Covered branches: 14
+  Total branches: 14
+  Method coverage: 100% (1 of 1)
+  Full method coverage: 100% (1 of 1)
+  Covered methods: 1
+  Fully covered methods: 1
+  Total methods: 1
+
+ProjetoTestes.Domain                   100%
+  ProjetoTestes.Domain.CpfValidator    100%

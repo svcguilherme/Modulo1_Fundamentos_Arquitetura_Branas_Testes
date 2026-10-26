@@ -1,0 +1,11 @@
+C:\dev_estudo\Branas\Arquitetura\Modulo1\ProjetoTestes\ProjetoTestes.Domain\bin\Debug\net10.0\ProjetoTestes.Domain.deps.json
+C:\dev_estudo\Branas\Arquitetura\Modulo1\ProjetoTestes\ProjetoTestes.Domain\bin\Debug\net10.0\ProjetoTestes.Domain.dll
+C:\dev_estudo\Branas\Arquitetura\Modulo1\ProjetoTestes\ProjetoTestes.Domain\bin\Debug\net10.0\ProjetoTestes.Domain.pdb
+C:\dev_estudo\Branas\Arquitetura\Modulo1\ProjetoTestes\ProjetoTestes.Domain\obj\Debug\net10.0\ProjetoTestes.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev_estudo\Branas\Arquitetura\Modulo1\ProjetoTestes\ProjetoTestes.Domain\obj\Debug\net10.0\ProjetoTestes.Domain.AssemblyInfoInputs.cache
+C:\dev_estudo\Branas\Arquitetura\Modulo1\ProjetoTestes\ProjetoTestes.Domain\obj\Debug\net10.0\ProjetoTestes.Domain.AssemblyInfo.cs
+C:\dev_estudo\Branas\Arquitetura\Modulo1\ProjetoTestes\ProjetoTestes.Domain\obj\Debug\net10.0\ProjetoTestes.Domain.csproj.CoreCompileInputs.cache
+C:\dev_estudo\Branas\Arquitetura\Modulo1\ProjetoTestes\ProjetoTestes.Domain\obj\Debug\net10.0\ProjetoTestes.Domain.dll
+C:\dev_estudo\Branas\Arquitetura\Modulo1\ProjetoTestes\ProjetoTestes.Domain\obj\Debug\net10.0\refint\ProjetoTestes.Domain.dll
+C:\dev_estudo\Branas\Arquitetura\Modulo1\ProjetoTestes\ProjetoTestes.Domain\obj\Debug\net10.0\ProjetoTestes.Domain.pdb
+C:\dev_estudo\Branas\Arquitetura\Modulo1\ProjetoTestes\ProjetoTestes.Domain\obj\Debug\net10.0\ref\ProjetoTestes.Domain.dll
